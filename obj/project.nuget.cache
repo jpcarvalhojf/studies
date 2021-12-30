@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0FkBFkCgm6Tvw/WW330cFxVeesxjfFqcCNJrbxnTsJbaE3f/CbCVKE0rv3C/DucvOOWwhs+xFz335GAGW7bsSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joao.carvalho\\OneDrive - PIXEON\\Documentos\\estudos\\estudos\\estudos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joao.carvalho\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
